@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cyntaf App</string>
+    <string name="spinner_label">Label ar gyfer Spinner</string>
+    <string name="welcome_message">Croeso i n Prosiect</string>
+    <string name="call_api">Galw API</string>
+    <string name="api_response">Ymateb API</string>
+</resources>

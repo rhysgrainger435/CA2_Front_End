@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">First App</string>
+    <string name="spinner_label">Label for Spinner</string>
+    <string name="welcome_message">Welcome to Our Project</string>
+    <string name="call_api">Call API</string>
+    <string name="api_response">API Response</string>
 </resources>
