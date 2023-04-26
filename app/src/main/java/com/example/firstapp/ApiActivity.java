@@ -35,9 +35,8 @@ public class ApiActivity extends AppCompatActivity implements View.OnClickListen
 
     @Override
     public void onClick(View v) {
-        // TODO: Call the API and display the response in TextView
         Retrofit retrofit = new Retrofit.Builder()
-                .baseUrl("https://api.example.com")
+                .baseUrl("https://localhost:7090/api/")
                 .addConverterFactory(GsonConverterFactory.create())
                 .build();
 

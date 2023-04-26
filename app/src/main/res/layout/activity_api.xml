@@ -23,8 +23,8 @@
 
     <TextView
         android:id="@+id/responseText"
-        android:layout_width="161dp"
-        android:layout_height="124dp"
+        android:layout_width="146dp"
+        android:layout_height="115dp"
         android:layout_marginStart="110dp"
         android:layout_marginEnd="140dp"
         android:layout_marginBottom="397dp"
@@ -34,7 +34,7 @@
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="1.0" />
+        app:layout_constraintVertical_bias="0.0" />
 
     <Spinner
         android:id="@+id/spinner"
